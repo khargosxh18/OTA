@@ -18,6 +18,5 @@ Device changelogs:
 
 Kernel changelogs:
 - Initial ChangeLog
-- Enabled WALT scheduler and TEO idle governor
 - Enabled BBR And More TCP congestion control
 - Added DroidSpace Support
